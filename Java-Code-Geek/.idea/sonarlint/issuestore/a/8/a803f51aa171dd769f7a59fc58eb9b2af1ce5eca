@@ -1,0 +1,13 @@
+
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(¼Ü¥äøÿÿÿÿ
+]squid:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Usquid:S1155K">Use isEmpty() to check whether the collection is empty or not.(æá®æ
+O
+squid:S106O"9Replace this use of System.out or System.err by a logger.(Ó¶óó
+Lsquid:S24461"0"notify" may not wake up the appropriate thread.(•À¼âþÿÿÿÿ
+?squid:S1148D"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Lsquid:S2446P"0"notify" may not wake up the appropriate thread.(•À¼âþÿÿÿÿ
+>squid:S2189I""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+]squid:S2142C"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148#"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

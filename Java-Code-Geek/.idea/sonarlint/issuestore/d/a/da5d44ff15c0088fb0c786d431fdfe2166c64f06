@@ -1,0 +1,17 @@
+
+´%squid:RedundantThrowsDeclarationCheck2"~Remove the declaration of thrown exception 'java.util.concurrent.TimeoutException', as it cannot be thrown from method's body.(úî¢óüÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Í›¸ýÿÿÿÿ
+gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(‡þÜõøÿÿÿÿ
+O
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ä”ïµ
+O
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ÿ»°†
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(òðˆÿýÿÿÿÿ
+T
+squid:S106G"9Replace this use of System.out or System.err by a logger.(œ’­¬øÿÿÿÿ
+O
+squid:S106H"9Replace this use of System.out or System.err by a logger.(”ôØÃ
+O
+squid:S106J"9Replace this use of System.out or System.err by a logger.(ø¯×¼
+csquid:UselessImportCheck'":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
